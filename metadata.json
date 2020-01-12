@@ -1,9 +1,9 @@
 {
   "name": "secrets",
   "version": "3.0.2",
-  "package": "git.lo/dbt/secrets",
+  "package": "github.com/scribd/secrets",
   "description": "Client for Managed Secrets",
-  "repository": "https://artifacts.lo/artifactory/dbt-tools",
+  "repository": "https://tools.myorg.com/dbt-tools",
   "building": {
     "targets": [
       {
