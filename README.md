@@ -48,7 +48,7 @@ From within a pod in the appropriate Namespace in K8s, run:
     
 ## Fetching Secrets with the TLS Realm
 
-From a machine possessing a certificate signed by the Scribd root CA, run:
+From a machine possessing a certificate signed by your root CA, run:
 
     [dbt] secrets fetch -r <team>-<role>-<environment>
 
