@@ -2,9 +2,9 @@
 
 Client Example for Managed Secrets - Relies on:
 
- * libs in https://github.com/scribd/vault-authenticator
+ * libs in https://github.com/nikogura/vault-authenticator
  
- * vault configured by https://github.com/scribd/keymaster-cli
+ * vault configured by https://github.com/nikogura/keymaster-cli
 
 This repo is a reference implementation of a client for the public libraries listed above.
 

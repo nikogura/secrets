@@ -13,7 +13,7 @@
 
 package main
 
-import "github.com/scribd/secrets/cmd"
+import "github.com/nikogura/secrets/cmd"
 
 func main() {
 	cmd.Execute()
