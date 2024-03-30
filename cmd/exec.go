@@ -15,7 +15,7 @@
 package cmd
 
 import (
-	"github.com/scribd/vault-authenticator/pkg/authenticator"
+	"github.com/nikogura/vault-authenticator/pkg/authenticator"
 	"github.com/spf13/cobra"
 	"log"
 )
