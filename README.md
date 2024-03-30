@@ -1,6 +1,4 @@
 # secrets
-[![Current Release](https://img.shields.io/github/release/nikogura/secrets.svg)](https://img.shields.io/github/release/nikogura/secrets.svg)
-
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/nikogura/secrets)](https://goreportcard.com/report/github.com/nikogura/secrets)
 
